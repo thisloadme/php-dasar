@@ -7,4 +7,5 @@
  adssa
  dada
  */
-echo "Edited"
+echo "Edited";
+echo 'saya duluan yg ngedit';
